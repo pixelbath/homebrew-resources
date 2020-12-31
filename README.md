@@ -1,12 +1,14 @@
 # Homebrew
 **Homebrew** is a term frequently applied to video games or other software produced by hobbyists and amateur developers targeting proprietary hardware platforms. This document is intended to be an up-to-date list of resources for homebrew developers.
 
-## Documentation
-* [NESDEV Programming Guide](http://wiki.nesdev.com/w/index.php/Programming_guide)
-
-## Sites
-* [GBATemp](https://gbatemp.net/) - One of the oldest homebrew-related sites around. The forums are a wealth of information about various consoles.
+## General Resources
+* [Awesome Game Boy Development]() - A curated collection of Nintendo Game Boy development resources.
 * [Awesome N64 Development](https://n64.dev/) - A curated collection of N64 development resources.
+* [dreamcast.wiki](https://dreamcast.wiki/Dreamcast.wiki)
+* [Introduction to Nintendo DS Programming](https://patater.com/files/projects/manual/manual.html) - A comprehensive tutorial utilizing devKitPro.
+* [NESDEV Programming Guide](http://wiki.nesdev.com/w/index.php/Programming_guide)
+* [PSP Archive](https://github.com/PSP-Archive) - A repository of open-source PSP games from homebrew developers.
+* [WiiBrew](https://wiibrew.org/wiki/Main_Page) - Easily the most comprehensive wiki about Wii homebrew and hacking.
 
 ## Integrated Development Environments
 These allow a developer to create games either mostly or wholly within a single application interface without resorting to multiple programs and collections of scripts.
@@ -19,3 +21,7 @@ The following list is in alphabetical order:
 
 ## Development Tools
 * [libSFX](https://github.com/Optiroc/libSFX) (MIT) - A collection of scripts to aid SNES development.
+
+## Related Sites
+* [Classic Console Upscaler Wiki](http://junkerhq.net/xrgb/index.php?title=Main_Page) - Probably more useful for emulator writers, but still an awesome technical wiki.
+* [GBATemp](https://gbatemp.net/) - One of the oldest homebrew-related sites around. The forums are a wealth of information about various consoles.
